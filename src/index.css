@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hamburger {
+  @apply cursor-pointer h-6 w-6 transition-all relative;
+}
+
+.hamburger-top,
+.hamburger-middle,
+.hamburger-bottom {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 2px;
+  background: lime;
+  transform: rotate(0);
+  transition: all 0.5s;
+}
+
+.hamburger-middle {
+  transform: translateY(7px);
+}
+.hamburger-bottom {
+  transform: translateY(14px);
+}
+
+.open {
+  transform: rotate(90deg);
+  transform: translateY(0px);
+}
+
+.open .hamburger-top {
+  transform: rotate(45deg) translateY(6px) translate(6px);
+}
+
+.open .hamburger-middle {
+  display: none;
+}
+.open .hamburger-bottom {
+  transform: rotate(-45deg) translateY(6px) translate(-6px);
+}
+
+.showMenuNav {
+  @apply absolute flex flex-col items-center self-end py-8 mt-6 space-y-6 font-bold bg-white text-black border border-green sm:w-auto sm:self-center left-6 right-6 drop-shadow-md;
+}
+
+.btn {
+  @apply bg-black text-white h-10 w-32 rounded-lg ring-2 ring-green font-bold focus:ring-4;
+}
+
+li{
+  @apply list-none
+}
