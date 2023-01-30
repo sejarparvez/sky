@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sky/static/css/main.b950fd3d.css",
+    "main.js": "/sky/static/js/main.798d81cd.js",
+    "static/media/person1.jpg": "/sky/static/media/person1.abbadd64dcae067c6ba8.jpg",
+    "static/media/img5.jpeg": "/sky/static/media/img5.5380fcf787b965dab630.jpeg",
+    "static/media/img4.jpeg": "/sky/static/media/img4.cdd7ec21ef8725ef044a.jpeg",
+    "static/media/img3.jpeg": "/sky/static/media/img3.b808015e280c276f378f.jpeg",
+    "static/media/img6.jpeg": "/sky/static/media/img6.4436cc79eef25632dbef.jpeg",
+    "static/media/person3.jpg": "/sky/static/media/person3.62a26d3a4135cdd24fa1.jpg",
+    "static/media/img2.jpeg": "/sky/static/media/img2.4f4e3042e3851c0368ef.jpeg",
+    "static/media/img1.jpeg": "/sky/static/media/img1.29fb66b84662b284ef46.jpeg",
+    "static/media/img8.jpeg": "/sky/static/media/img8.4c0edbd03c01abb8b4d9.jpeg",
+    "static/media/person2.jpg": "/sky/static/media/person2.38764ac52b0391b2ff37.jpg",
+    "static/media/logo.png": "/sky/static/media/logo.440e4c311ce82d5b11b3.png",
+    "index.html": "/sky/index.html",
+    "main.b950fd3d.css.map": "/sky/static/css/main.b950fd3d.css.map",
+    "main.798d81cd.js.map": "/sky/static/js/main.798d81cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b950fd3d.css",
+    "static/js/main.798d81cd.js"
+  ]
+}
