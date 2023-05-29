@@ -13,7 +13,7 @@ export default function Navbar() {
             <li>About</li>
 
             <li>Contact</li>
-            <li className="btn !text-white">Hire Me</li>
+            <button className=" !text-white bg-pink rounded-full px-4 py-1.5">Hire Me</button>
           </ul>
         </div>
         <div className="lg:hidden">
