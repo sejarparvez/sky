@@ -1,4 +1,4 @@
-# project Live Link [SKY ARCHITECT](https://sky-architech.netlify.app)
+# Project Live Link [SKY ARCHITECT](https://sky-architech.netlify.app)
 
 # Getting Started with Create React App
 
